@@ -1,0 +1,23 @@
+{
+  "en": {
+    "header": "Welcome to my home page",
+    "greeting": "Hello, how can I help you today?",
+    "aboutUs": "About Us",
+    "back": "Back",
+    "description": "This is the English description."
+  },
+  "fr": {
+    "header": "Bienvenue sur ma page d'accueil",
+    "greeting": "Bonjour, comment puis-je vous aider aujourd'hui ?",
+    "aboutUs": "À propos de nous",
+    "back": "Retour",
+    "description": "Voici la description en français."
+  },
+  "it": {
+    "description": "Questa è la descrizione in italiano.",
+    "header": "Benvenuto nella mia pagina principale",
+    "greeting": "Ciao, come posso aiutarti oggi?",
+    "aboutUs": "Chi siamo",
+    "back": "Indietro"
+  }
+}
